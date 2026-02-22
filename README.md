@@ -1,2 +1,2 @@
 # machine-learning
-APLICACIÓN DE ALGORITMOS DE MACHINE LEARNING PARA LA CLASIFICACIÓN DE ENFERMEDADES DERMATOLÓGICAS ERITEMATOESCAMOSAS
+aplicación de algoritmos de machine learning para la clasificación de enfermedades dermatológicas eritematoescamosas
